@@ -1,9 +1,14 @@
 # MAKER'S ASYLUM INNOVATION SCHOOL
-## YY COHORT
-## NAME OF PROJECT
+## 2026 Dusserah COHORT
+## Chameleon Lamp
 
-Describe the project.
-Describe what are the contents of each folder - CODE, CAD, Electronics etc
+WHAT MADE US THINK ABOUT THIS?<br>
+• We wanted lightning that intelligently responds to the surroundings rather than remaining fixed to a particular colour.<br>
+• We took inspiration from nature – A chameleon changes colour to blend in with its surroundings.<br>
+<br>
+We decided to make a lamp that changes colour like a Chameleon. We also decided to give it the shape of a chameleon.<br>
+<br>
+Chameleon lamp has WS2812 RGB LED's driven by an ESP32, with a color sensor that allows the chameleon to change it color based on its surroundings.<br>
 
 
 ## License
